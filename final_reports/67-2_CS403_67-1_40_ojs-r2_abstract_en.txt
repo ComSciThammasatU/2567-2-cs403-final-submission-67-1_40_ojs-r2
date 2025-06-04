@@ -1,0 +1,12 @@
+ชื่อโครงงาน: เกมเอาชีวิตรอดจากน้ำท่วม
+ชื่อโครงงาน: The Floor is Flooding
+Nowadays, games are a widely popular form of entertainment and have been adapted as an effective learning medium. 
+Not only do they provide enjoyment and fun, but they also deliver knowledge in an engaging way. 
+The Floor is Flooding is designed with the purpose of illustrating the differences in performance between Dijkstra's Algorithm and A. 
+This allows players to enjoy the game while observing the distinct behaviors of these two algorithms in action. 
+The game will be developed using the Godot Engine, a widely used tool for creating both 2D and 3D games. 
+The game will follow a Tower Defense format, where players aim to defend their base by strategically placing turrets at various points to fend off enemies moving toward the base. 
+There will be two types of enemies: those that navigate using Dijkstra's Algorithm and those that use A*. Players will have a limited number of resources to place their turrets, 
+requiring careful planning and resource management. Additionally, the game will feature randomly occurring flood events at different locations. 
+These floods will alter enemy movement paths, forcing players to adapt their strategies and respond to sudden changes in the environment.
+
