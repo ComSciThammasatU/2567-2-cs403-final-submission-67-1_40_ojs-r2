@@ -11,7 +11,7 @@
 
 **ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
 1. นายพชร ตรียัง  6309681861  potchara.tre@dome.tu.ac.th
-2. นายชานนท์ สหนนท์ 
+2. นายชานนท์ สหนนท์ 6309682117 chanon.sah@dome.tu.ac.th
    
 Manual / Instructions for your projects starts here !
 # Topic 1
